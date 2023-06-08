@@ -11,14 +11,14 @@
 <a href="https://github.com/Jamesllllllllll"><img alt="Mocha.js" src="https://img.shields.io/badge/mocha.js-43AA8B?style=for-the-badge&logo=mocha&logoColor=Brown" /></a>
 <a href="https://github.com/Jamesllllllllll"><img alt="React Native" src="https://img.shields.io/badge/React_Native-577590?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-f94144?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-f3722c?style=for-the-badge&logo=material-ui&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-F9C74F?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-43AA8B?style=for-the-badge&logo=html5&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-577590?style=for-the-badge&logo=powershell&logoColor=white)
+<a href="https://github.com/Jamesllllllllll"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-f94144?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<a href="https://github.com/Jamesllllllllll"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-f3722c?style=for-the-badge&logo=material-ui&logoColor=white" />
+<a href="https://github.com/Jamesllllllllll"><img alt="CSS" src="https://img.shields.io/badge/CSS3-F9C74F?style=for-the-badge&logo=css3&logoColor=white" />
+<a href="https://github.com/Jamesllllllllll"><img alt="HTML" src="https://img.shields.io/badge/HTML5-43AA8B?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://github.com/Jamesllllllllll"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-577590?style=for-the-badge&logo=powershell&logoColor=white" />
 
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+<a href="https://github.com/Jamesllllllllll"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
+<a href="https://github.com/Jamesllllllllll"><img alt="MDN Web Docs" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
 
 
 
