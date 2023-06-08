@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James
+- 👋 Hi, I’m James 🧑‍🧑‍🧒‍🧒🐕🚴☕🎸
 - 👀 I’m interested in Humane Technology - supporting our well-being and shared information environment.
 - 🌱 I’m currently learning Front-End Engineering at Codecademy. (85% complete)
 - 💞️ I’m looking to collaborate on projects that are not focused on attention-mining and not ad-based.
