@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front-End Engineering at Codecademy. (85% complete)
 - 💞️ I’m looking to collaborate on projects that are not focused on attention-mining and not ad-based
 - 📫 How to reach me: contact me through my website: https://jameskeezer.dev
-- I have no social media accounts
+- 🌳 I have no social media accounts
 
 <a href="https://github.com/Jamesllllllllll"><img alt="React" src="https://img.shields.io/badge/React-f94144?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://github.com/Jamesllllllllll"><img alt="Redux" src="https://img.shields.io/badge/Redux-f3722c?style=for-the-badge&logo=redux&logoColor=white" /></a>
