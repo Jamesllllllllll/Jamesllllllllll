@@ -18,7 +18,7 @@
 <a href="https://github.com/Jamesllllllllll"><img alt="HTML" src="https://img.shields.io/badge/HTML5-43AA8B?style=for-the-badge&logo=html5&logoColor=white" />
 <a href="https://github.com/Jamesllllllllll"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-577590?style=for-the-badge&logo=powershell&logoColor=white" />
 
-<a href="https://github.com/Jamesllllllllll"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
+<a href="https://www.codecademy.com/profiles/jameskeezer"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
 <a href="https://github.com/Jamesllllllllll"><img alt="MDN Web Docs" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
 
 
