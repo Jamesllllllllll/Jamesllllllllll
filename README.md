@@ -1,8 +1,8 @@
 - 👋 Hi, I’m James 🧑‍🧑‍🧒‍🧒🐕🚴☕🎸
 - 👀 I’m interested in Humane Technology - supporting our well-being and shared information environment.
-- 💾 Hand-coding websites since 1997 (Angelfire & Geocities)
+- 💞️ I’m interested in collaborating on projects that are not focused on attention-mining and not ad-based
 - 🌱 Front-End Engineer Professional Certification from Codecademy.
-- 💞️ I’m looking to collaborate on projects that are not focused on attention-mining and not ad-based
+- 💾 Hand-coding websites since 1997 (Angelfire & Geocities)
 - 📫 How to reach me: contact me through my website: https://jameskeezer.dev
 - 🌳 I have no social media accounts
 
