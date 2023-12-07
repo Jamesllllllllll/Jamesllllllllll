@@ -20,4 +20,3 @@
 
 <a href="https://www.codecademy.com/profiles/jameskeezer"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
 <a href="https://github.com/Jamesllllllllll"><img alt="MDN Web Docs" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
-<h2 style="text-align: center;">Hacktoberfest 2023</h2>
