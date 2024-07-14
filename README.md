@@ -7,7 +7,7 @@
 - 🌳 I have no social media accounts (although I just caved and got a [LinkedIn](https://www.linkedin.com/in/jameskeezer/))
 
 <a href="https://github.com/Jamesllllllllll"><img alt="React" src="https://img.shields.io/badge/React-f94144?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="https://github.com/Jamesllllllllll"><img alt="Angular" src="https://img.shields.io/badge/Angular-F9C74F?style=for-the-badge&logo=angular&logoColor=624604" /></a>
+<a href="https://github.com/Jamesllllllllll"><img alt="Next JS" src="https://img.shields.io/badge/Next-F9C74F?style=for-the-badge&logo=next.js&logoColor=black" /></a>
 <a href="https://github.com/Jamesllllllllll"><img alt="Astro" src="https://img.shields.io/badge/Astro-43AA8B?style=for-the-badge&logo=astro&logoColor=white" /></a>
 <a href="https://github.com/Jamesllllllllll"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-577590?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 
