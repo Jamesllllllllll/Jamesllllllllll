@@ -1,5 +1,5 @@
 # 👋 Hi, I’m James 🧑‍🧑‍🧒‍🧒🐕🚴☕🎸
-- 🌠 Creator of [RadGenius](https://radgenius.dev) - Helping educators add AI to their courses & products
+- 🌠 Creator of [RadGenius](https://radgenius.dev) - Helping educators add useful AI tools to their courses & products
 - 👀 Interested in Humane Technology that supports our well-being, sense-making and shared information environment.
 - 💞️ Full-time stay-at-home father & sole web dev for my wife's company.
 - 👔 I'm open to contracts, part-time or full-time employment if the fit is very good.
