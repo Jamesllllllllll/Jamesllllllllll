@@ -5,7 +5,7 @@
 - 🌱 Front-End Engineer Professional Certification from [Codecademy](https://www.codecademy.com/profiles/jameskeezer)
 - 💾 Hand-coding websites since 1997 (Angelfire & Geocities)
 - 📫 How to reach me: contact me through my website: https://jameskeezer.dev
-- 🌳 I have no social media accounts (although I just caved and got a [LinkedIn](https://www.linkedin.com/in/jameskeezer/))
+- 🌳 I have no social media accounts (with the exception of [LinkedIn](https://www.linkedin.com/in/jameskeezer/) 🤢)
 
 <a href="https://github.com/Jamesllllllllll"><img alt="React" src="https://img.shields.io/badge/React-f94144?style=for-the-badge&logo=react&logoColor=white" /></a>
 <a href="https://github.com/Jamesllllllllll"><img alt="Next JS" src="https://img.shields.io/badge/Next-F9C74F?style=for-the-badge&logo=next.js&logoColor=black" /></a>
