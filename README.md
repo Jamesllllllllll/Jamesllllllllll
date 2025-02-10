@@ -16,4 +16,4 @@
 <a href="https://github.com/Jamesllllllllll"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-f94144?style=for-the-badge&logo=postgresql&logoColor=white" />
 <a href="https://github.com/Jamesllllllllll"><img alt="CSS" src="https://img.shields.io/badge/CSS3-F9C74F?style=for-the-badge&logo=css3&logoColor=624604" />
 <a href="https://github.com/Jamesllllllllll"><img alt="HTML" src="https://img.shields.io/badge/HTML5-43AA8B?style=for-the-badge&logo=html5&logoColor=white" />
-<a href="https://github.com/Jamesllllllllll"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpess-577590?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<a href="https://github.com/Jamesllllllllll"><img alt="Go" src="https://img.shields.io/badge/Go-577590?style=for-the-badge&logo=go&logoColor=white"/>
