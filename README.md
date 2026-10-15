@@ -1,4 +1,5 @@
 # 👋 Hi, I’m James 🧑‍🧑‍🧒‍🧒🐕🚴☕🎸
+- 🎸 Creator of [RockList](https://rocklist.live) - A song request web app & Twitch chat bot for Rocksmith streamers.
 - 🌠 Creator of [RadGenius](https://radgenius.dev) - Helping educators add useful AI tools to their courses & products.
 - 👀 Interested in Humane Technology that supports our well-being, sense-making and shared information environment.
 - 💞️ Full-time stay-at-home father & sole web dev for my wife's company.
